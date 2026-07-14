@@ -132,35 +132,6 @@ Scalable Trello-inspired backend platform with authentication, boards, projects 
 
 ---
 
-# 📚 Currently Learning
-
-- Distributed Systems
-- Cloud Architecture
-- Kubernetes
-- Microservices
-- Event-Driven Architecture
-- System Design
-
----
-
-# 🎯 Current Focus
-
-✔ Scalable Backend Development
-
-✔ High Performance REST APIs
-
-✔ AI Integration
-
-✔ PostgreSQL Optimization
-
-✔ Docker & DevOps
-
-✔ Clean Architecture
-
-✔ Distributed Systems
-
----
-
 # 📫 Contact
 
 📧 **kostandaofficial@gmail.com**
