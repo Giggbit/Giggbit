@@ -1,106 +1,73 @@
 <div align="center">
 
-# Hi there 👋
+# 👋 Hi, I'm Daniil Kostanda
 
 ### Backend Engineer • Node.js • NestJS • TypeScript
 
-Building scalable backend systems, REST APIs and AI-powered applications.
+Building scalable backend systems, modern REST APIs and AI-powered applications.
 
-<p>
-  <a href="mailto:kostandaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kostandaofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="https://github.com/Giggbit">
-    <img src="https://img.shields.io/badge/GitHub-Giggbit-181717?style=for-the-badge&logo=github"/>
-  </a>
+[![Email](https://img.shields.io/badge/Email-kostandaofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kostandaofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniil%20Kostanda-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Giggbit-181717?style=for-the-badge&logo=github)](https://github.com/Giggbit)
 
-  <img src="https://img.shields.io/badge/Vienna-Austria-red?style=for-the-badge"/>
-
-</p>
+📍 Vienna, Austria • 🎓 M.Sc. Computer Science • 🚀 Open to Backend Opportunities
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 About Me
 
-Backend Engineer with commercial experience designing and developing scalable backend systems using **Node.js**, **NestJS** and **TypeScript**.
+I'm a Backend Engineer with commercial experience designing and developing scalable backend systems using **Node.js**, **NestJS** and **TypeScript**.
 
-I enjoy building production-ready backend applications, designing clean architectures, optimizing database performance and integrating AI into modern web platforms.
+I enjoy designing maintainable architectures, building high-performance REST APIs, optimizing SQL and NoSQL databases, working with Docker-based environments and integrating AI into production systems.
 
-Currently pursuing a **Master's Degree in Computer Science** while continuously improving my expertise in backend architecture, distributed systems and cloud technologies.
+Currently pursuing a Master's degree while continuously expanding my expertise in backend architecture, distributed systems and cloud technologies.
 
 ---
 
-# 🚀 Tech Stack
+# ⚙️ Engineering Toolbox
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express"/>
-
 </p>
 
 ### Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
 </p>
-
-### ORM / ODM
-
-TypeORM • Prisma • Sequelize • Mongoose
-
----
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind"/>
-
 </p>
-
----
 
 ### DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git"/>
-
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"/>
 </p>
 
----
+### Other Technologies
 
-### API & Security
-
+- TypeORM
+- Prisma
+- Sequelize
+- Mongoose
+- Swagger / OpenAPI
+- JWT
+- OAuth2
 - REST API
 - GraphQL
-- JWT Authentication
-- OAuth2
-- Swagger / OpenAPI
-
----
-
-### Architecture
-
 - Clean Architecture
-- SOLID Principles
+- SOLID
 - Design Patterns
-- Modular Architecture
-
----
-
-### AI
-
-- OpenAI API
-- LLM Integration
-- AI Automation
 
 ---
 
@@ -108,42 +75,64 @@ TypeORM • Prisma • Sequelize • Mongoose
 
 ## 📈 Crypto Portfolio Tracker
 
-Production-ready cryptocurrency portfolio platform featuring:
+Production-ready cryptocurrency portfolio platform featuring AI-powered analytics, secure authentication and real-time portfolio management.
 
-- JWT Authentication
-- RBAC
-- Portfolio Management
-- Transaction Engine
-- AI Portfolio Analysis
-- Docker Deployment
-- REST API
+**Tech Stack**
+
+`NestJS` • `TypeScript` • `PostgreSQL` • `Redis` • `Docker`
 
 ---
 
 ## 🤖 AI Business Platform
 
-Modern backend platform integrating AI into business workflows.
+Backend platform integrating AI into modern business workflows using OpenAI APIs.
+
+**Tech Stack**
+
+`NestJS` • `Redis` • `Docker` • `OpenAI`
 
 ---
 
 ## 📋 Project Management Platform
 
-Scalable Trello-inspired backend platform with authentication, boards, projects and task management.
+Scalable Trello-inspired backend platform supporting projects, boards, authentication and task management.
+
+**Tech Stack**
+
+`NestJS` • `MySQL` • `JWT` • `Docker`
 
 ---
 
-# 📫 Contact
+# 📊 GitHub Analytics
 
-📧 **kostandaofficial@gmail.com**
+<div align="center">
 
-📍 **Vienna, Austria**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Giggbit&theme=github-dark&hide_border=true"/>
 
-💼 Open to **Backend Engineer** opportunities.
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**kostandaofficial@gmail.com**
+
+📍 **Location**
+
+Vienna, Austria
+
+💼 **Looking for**
+
+Backend Engineer • Node.js • NestJS • TypeScript
 
 ---
 
 <div align="center">
 
 ### Thanks for visiting my profile! ⭐
+
+If you like my work, feel free to explore my repositories.
 
 </div>
