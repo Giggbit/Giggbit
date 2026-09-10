@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Daniil Kostanda
 
-### Backend Engineer • Node.js • NestJS • TypeScript
+### Fullstack Developer • Node.js • NestJS • React • Next.js • TypeScript
 
-Building scalable backend systems, modern REST APIs and AI-powered applications.
+Building scalable web applications, modern REST APIs and AI-powered products from frontend to backend.
 
 <br>
 
@@ -12,7 +12,7 @@ Building scalable backend systems, modern REST APIs and AI-powered applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniil%20Kostanda-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-Giggbit-181717?style=for-the-badge&logo=github)](https://github.com/Giggbit)
 
-📍 Vienna, Austria • 🎓 M.Sc. Computer Science • 🚀 Open to Backend Opportunities
+📍 Vienna, Austria • 🎓 M.Sc. Computer Science • 🚀 Open to Fullstack Opportunities
 
 </div>
 
@@ -20,11 +20,11 @@ Building scalable backend systems, modern REST APIs and AI-powered applications.
 
 # 💻 About Me
 
-I'm a Backend Engineer with commercial experience designing and developing scalable backend systems using **Node.js**, **NestJS** and **TypeScript**.
+I'm a Fullstack Developer with commercial experience building modern web applications using **Node.js**, **NestJS**, **React**, **Next.js** and **TypeScript**.
 
-I enjoy designing maintainable architectures, building high-performance REST APIs, optimizing SQL and NoSQL databases, working with Docker-based environments and integrating AI into production systems.
+I work across the entire development lifecycle—from creating responsive user interfaces and implementing application logic to designing maintainable backend architectures, building REST APIs and working with SQL and NoSQL databases.
 
-Currently pursuing a Master's degree while continuously expanding my expertise in backend architecture, distributed systems and cloud technologies.
+I also have experience with Docker-based environments, cloud technologies and integrating AI into production systems. Currently, I'm pursuing a Master's degree while continuously expanding my expertise in fullstack development, scalable architecture and modern web technologies.
 
 ---
 
@@ -75,31 +75,31 @@ Currently pursuing a Master's degree while continuously expanding my expertise i
 
 ## 📈 Crypto Portfolio Tracker
 
-Production-ready cryptocurrency portfolio platform featuring AI-powered analytics, secure authentication and real-time portfolio management.
+Production-ready fullstack cryptocurrency portfolio platform featuring AI-powered analytics, secure authentication and real-time portfolio management.
 
 **Tech Stack**
 
-`NestJS` • `TypeScript` • `PostgreSQL` • `Redis` • `Docker`
+`NestJS` • `Next.js` • `TypeScript` • `PostgreSQL` • `Redis` • `Docker`
 
 ---
 
 ## 🤖 AI Business Platform
 
-Backend platform integrating AI into modern business workflows using OpenAI APIs.
+Fullstack platform integrating AI into modern business workflows using OpenAI APIs.
 
 **Tech Stack**
 
-`NestJS` • `Redis` • `Docker` • `OpenAI`
+`NestJS` • `React` • `TypeScript` • `Redis` • `Docker` • `OpenAI`
 
 ---
 
 ## 📋 Project Management Platform
 
-Scalable Trello-inspired backend platform supporting projects, boards, authentication and task management.
+Scalable Trello-inspired web platform supporting projects, boards, authentication and task management.
 
 **Tech Stack**
 
-`NestJS` • `MySQL` • `JWT` • `Docker`
+`NestJS` • `React` • `TypeScript` • `MySQL` • `JWT` • `Docker`
 
 ---
 
@@ -125,7 +125,7 @@ Vienna, Austria
 
 💼 **Looking for**
 
-Backend Engineer • Node.js • NestJS • TypeScript
+Fullstack Developer • Node.js • NestJS • React • Next.js • TypeScript
 
 ---
 
