@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Daniil Kostanda
+# 👋 Hi, I'm a Fullstack Developer
 
 ### Fullstack Developer • Node.js • NestJS • React • Next.js • TypeScript
 
